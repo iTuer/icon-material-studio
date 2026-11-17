@@ -58,15 +58,15 @@ Or ask Codex to install it:
 Install this skill: https://github.com/iTuer/icon-material-studio
 ```
 
-Then describe your icon:
+Just name the object. A single word is enough:
 
-> Use $icon-material-studio to make a purple and green eggplant icon in soft clay, with a transparent background, for a 48px interface.
+> Eggplant
 
-> Find three commercially usable shapes for a “completed” icon, then turn the selected one into red soft clay.
+> Book
 
-> Make a consistent set of book, notes, and paper icons in cream and purple soft clay. Deliver a PNG package.
+> A red flag
 
-Short replies such as “02,” “make it purple,” or “try both” continue the current selection.
+The skill handles the prompt details: soft-clay material, transparent PNG, natural colors, lighting, composition and small-size readability. You can optionally add “purple,” “rounder,” or “commercial use.” No long prompt is required.
 
 ## Workflow
 

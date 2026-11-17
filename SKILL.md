@@ -9,6 +9,8 @@ Complete a source-to-delivery **3D-look icon** workflow. Every icon produced und
 
 ## 1. Define the brief without stalling
 
+A single object name is a sufficient brief. For “茄子” or “eggplant,” proceed with soft clay, transparent PNG, natural subject colors and a simple readable UI composition. Infer reasonable lighting, angle and padding. Do not ask the user to provide a long prompt, palette, camera setup or export settings. Ask only when ambiguity changes the object meaning or a stated licensing condition cannot be met. The assistant expands the short request into the generation prompt.
+
 Extract: icon subjects and count; desired silhouette or reference; soft-clay material; palette; target pixel sizes and background; source-license constraints; image file format and delivery location; and whether the assets are for preview or a project. Inspect existing product visuals and design tokens when available. Guide the user through only the unresolved decisions, in their language: first show 2–4 recognizable shape candidates with source and commercial status, then ask for palette or output destination only if it changes the next step. Bundle choices into one short prompt when possible. Interpret short replies such as “02”, “purple”, or “try all” against the current candidate set; do not restart discovery. See [user interaction](references/user-interaction.md).
 
 If the user requests a 3D icon without specifying material, use soft clay and explain it. If no output mode is specified, make downloadable transparent PNGs. Continue independent source research while waiting for an optional preference; never treat elapsed time as approval for paid resources.
