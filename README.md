@@ -20,6 +20,15 @@
 
 以上是实际生成的透明 PNG 示例。3D 指图标的视觉效果，交付文件是位图插画。示例由文字提示生成，没有将第三方图片上传为生成输入；详细来源见 [示例说明](assets/CREDITS.md)。
 
+## 不只有茄子：一组软陶示例
+
+<table>
+<tr><td align="center" width="33%"><img src="assets/book-clay.png" width="180" alt="书籍"><br><b>书籍</b></td><td align="center" width="33%"><img src="assets/done-clay.png" width="180" alt="完成徽章"><br><b>完成徽章</b></td><td align="center" width="33%"><img src="assets/bok-choy-clay.png" width="180" alt="小白菜"><br><b>小白菜</b></td></tr>
+<tr><td align="center" width="33%"><img src="assets/carrot-clay.png" width="180" alt="胡萝卜"><br><b>胡萝卜</b></td><td align="center" width="33%"><img src="assets/pumpkin-clay.png" width="180" alt="南瓜"><br><b>南瓜</b></td><td align="center" width="33%"><img src="assets/tomato-clay.png" width="180" alt="番茄"><br><b>番茄</b></td></tr>
+</table>
+
+以上为 AI 生成材质示例。书籍有额外的源素材授权条件，其余示例沿用了它的材质参考。详见[来源与限制](assets/CREDITS.md)，整组展示不代表已获无条件商用授权。
+
 ## 从输入到结果
 
 可以直接上传一张或多张参考图片，也可以只描述物品。优先检索**免费可商用资源**；没有合适结果时，再提供标明价格与授权条件的付费商用候选，附原素材链接，购买前征得同意。

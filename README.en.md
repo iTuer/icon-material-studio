@@ -20,6 +20,15 @@
 
 These are actual generated transparent PNG examples. “3D” describes the visual treatment; delivered images are raster illustrations. The example was generated from text without uploading third-party images as generation inputs. See [example provenance](assets/CREDITS.md).
 
+## More soft-clay examples
+
+<table>
+<tr><td align="center" width="33%"><img src="assets/book-clay.png" width="180" alt="Book"><br><b>Book</b></td><td align="center" width="33%"><img src="assets/done-clay.png" width="180" alt="Completed"><br><b>Completed</b></td><td align="center" width="33%"><img src="assets/bok-choy-clay.png" width="180" alt="Bok choy"><br><b>Bok choy</b></td></tr>
+<tr><td align="center" width="33%"><img src="assets/carrot-clay.png" width="180" alt="Carrot"><br><b>Carrot</b></td><td align="center" width="33%"><img src="assets/pumpkin-clay.png" width="180" alt="Pumpkin"><br><b>Pumpkin</b></td><td align="center" width="33%"><img src="assets/tomato-clay.png" width="180" alt="Tomato"><br><b>Tomato</b></td></tr>
+</table>
+
+These are AI-generated material examples. The book has additional source-license conditions, and the other examples share its material reference. See [provenance and limitations](assets/CREDITS.md); the gallery does not certify the entire set for unrestricted commercial use.
+
 ## From input to result
 
 Upload one or more reference images, or simply describe an object. Search **free commercially usable resources first**. If suitable matches are unavailable, offer paid commercial candidates with original asset links and license conditions. Purchases require authorization.
