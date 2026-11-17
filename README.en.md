@@ -12,7 +12,7 @@ These are actual generated transparent PNG examples. “3D” describes the visu
 
 | Shape source | Material reference | Result |
 |---|---|---|
-| <img src="https://api.iconify.design/solar/notebook-2-bold-duotone.svg?color=%238D7BC3" width="85" alt="Solar source icon"><br>[Solar notebook-2](https://icon-sets.iconify.design/solar/notebook-2-bold-duotone/) | [Fitness screenshot](https://github.com/mitesh77/Best-Flutter-UI-Templates/blob/master/best_flutter_ui_templates/assets/fitness_app/fitness_app.png) | <img src="assets/book-clay.png" width="140" alt="book"> |
+| <img src="https://api.iconify.design/solar/notebook-2-bold-duotone.svg?color=%238D7BC3" width="85" alt="Solar source icon"><br>[Solar notebook-2](https://icon-sets.iconify.design/solar/notebook-2-bold-duotone/) | - | <img src="assets/book-clay.png" width="140" alt="book"> |
 | - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/done-clay.png" width="140" alt="done"> |
 | - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/bok-choy-clay.png" width="140" alt="bok-choy"> |
 | - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/carrot-clay.png" width="140" alt="carrot"> |
@@ -20,7 +20,7 @@ These are actual generated transparent PNG examples. “3D” describes the visu
 | - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/tomato-clay.png" width="140" alt="tomato"> |
 | - | - | <img src="assets/eggplant-clay.png" width="140" alt="eggplant"> |
 
-[Book style reference / 书籍材质参考：Fitness screenshot](https://github.com/mitesh77/Best-Flutter-UI-Templates/blob/master/best_flutter_ui_templates/assets/fitness_app/fitness_app.png) · [Source and license details / 来源与授权](assets/CREDITS.md)
+[Source and license details](assets/CREDITS.md)
 
 
 These are AI-generated material examples. The book has additional source-license conditions, and the other examples share its material reference. See [provenance and limitations](assets/CREDITS.md); the gallery does not certify the entire set for unrestricted commercial use.

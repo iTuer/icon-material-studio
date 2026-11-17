@@ -13,3 +13,7 @@
 - `done-clay.png`, `bok-choy-clay.png`, `carrot-clay.png`, `pumpkin-clay.png`, `tomato-clay.png`: AI-generated from subject descriptions with the generated book as a material reference. No separate third-party subject image was supplied. The inherited style-reference chain is disclosed above; these examples are not advertised as commercially cleared or open-source stock assets.
 
 The gallery demonstrates appearance. For a commercial project, select independently cleared source inputs or generate a fresh text-only material specification instead of reusing the unresolved reference chain.
+
+## Reference correction
+
+The Fitness screenshot was historically supplied as an input when generating the book. Its influence was limited to general UI color, roundness and soft shadows; it is not a soft-clay material reference. The clay appearance primarily came from the generation prompt. It has therefore been removed from the README material-reference column while retained here for accurate input provenance and rights disclosure.

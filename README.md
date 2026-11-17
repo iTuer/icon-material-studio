@@ -12,7 +12,7 @@
 
 | 造型来源 | 材质参考 | 生成结果 |
 |---|---|---|
-| <img src="https://api.iconify.design/solar/notebook-2-bold-duotone.svg?color=%238D7BC3" width="85" alt="Solar source icon"><br>[Solar notebook-2](https://icon-sets.iconify.design/solar/notebook-2-bold-duotone/) | [Fitness screenshot](https://github.com/mitesh77/Best-Flutter-UI-Templates/blob/master/best_flutter_ui_templates/assets/fitness_app/fitness_app.png) | <img src="assets/book-clay.png" width="140" alt="book"> |
+| <img src="https://api.iconify.design/solar/notebook-2-bold-duotone.svg?color=%238D7BC3" width="85" alt="Solar source icon"><br>[Solar notebook-2](https://icon-sets.iconify.design/solar/notebook-2-bold-duotone/) | - | <img src="assets/book-clay.png" width="140" alt="book"> |
 | - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/done-clay.png" width="140" alt="done"> |
 | - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/bok-choy-clay.png" width="140" alt="bok-choy"> |
 | - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/carrot-clay.png" width="140" alt="carrot"> |
@@ -20,7 +20,7 @@
 | - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/tomato-clay.png" width="140" alt="tomato"> |
 | - | - | <img src="assets/eggplant-clay.png" width="140" alt="eggplant"> |
 
-[Book style reference / 书籍材质参考：Fitness screenshot](https://github.com/mitesh77/Best-Flutter-UI-Templates/blob/master/best_flutter_ui_templates/assets/fitness_app/fitness_app.png) · [Source and license details / 来源与授权](assets/CREDITS.md)
+[来源与授权](assets/CREDITS.md)
 
 
 以上为 AI 生成材质示例。书籍有额外的源素材授权条件，其余示例沿用了它的材质参考。详见[来源与限制](assets/CREDITS.md)，整组展示不代表已获无条件商用授权。
