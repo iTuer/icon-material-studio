@@ -6,7 +6,7 @@ For each final asset, record:
 
 | Field | Meaning |
 |---|---|
-| `file` | Delivered filename or Figma node |
+| `file` | Delivered filename |
 | `subject` | User-facing icon meaning |
 | `source_url` | Direct original icon/image URL, or `none: text-only original brief` |
 | `creator` | Source author/library, if known |

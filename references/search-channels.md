@@ -6,7 +6,6 @@ Use channels relevant to the brief; the list is not a requirement to query every
 |---|---|---|
 | Installed skills and local icon packages (for example Naive Icons, Lucide, Solar if present) | Fast exact semantic match and existing style | Read bundled license and upstream icon page; inspect whether package and artwork share the same terms |
 | Project repository and design system | Consistency with the user's product | Identify who made each asset and whether third-party material was imported; local presence is not a license |
-| Figma file, team library, Figma Community | Components and editable source shapes | Check file owner, Community terms, asset-specific license, and whether reuse outside Figma is allowed |
 | Original creator sites and GitHub repositories | Authoritative downloads, version history, licenses | Prefer exact file URL plus license URL; check image folders separately from code |
 | Icon aggregators such as Iconify | Discover families, naming, and candidates | Follow through to original creator and license metadata; aggregator wrapper license does not replace artwork terms |
 | Public-domain/open-asset catalogs such as OpenMoji or Wikimedia Commons | Broad subjects and alternate styles | Inspect the exact file's license, attribution, trademark and source fields; do not assume the whole site is uniform |
