@@ -1,111 +1,35 @@
-<div align="center">
-
 # Icon Material Studio
 
-### Soft clay, a friendly icon family
+[简体中文](README.md) · **English**
 
-<p align="center"><img src="assets/eggplant-clay.png" width="300" alt="Soft clay eggplant icon"></p>
+A word or an image. A soft-clay icon.
 
-These are actual generated transparent PNG examples. “3D” describes the visual treatment; delivered images are raster illustrations. The example was generated from text without uploading third-party images as generation inputs. See [example provenance](assets/CREDITS.md).
+![Soft clay icon gallery](assets/gallery/page.png)
 
-## More soft-clay examples
+## Use it
 
-| Shape source | Material reference | Result |
-|---|---|---|
-| <img src="https://api.iconify.design/solar/notebook-2-bold-duotone.svg?color=%238D7BC3" width="85" alt="Solar source icon"><br>[Solar notebook-2](https://icon-sets.iconify.design/solar/notebook-2-bold-duotone/) | - | <img src="assets/book-clay.png" width="140" alt="book"> |
-| - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/done-clay.png" width="140" alt="done"> |
-| - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/bok-choy-clay.png" width="140" alt="bok-choy"> |
-| - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/carrot-clay.png" width="140" alt="carrot"> |
-| - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/pumpkin-clay.png" width="140" alt="pumpkin"> |
-| - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/tomato-clay.png" width="140" alt="tomato"> |
-| - | - | <img src="assets/eggplant-clay.png" width="140" alt="eggplant"> |
+Install: `https://github.com/iTuer/icon-material-studio`
 
-[Source and license details](assets/CREDITS.md)
-
-
-These are AI-generated material examples. The book has additional source-license conditions, and the other examples share its material reference. See [provenance and limitations](assets/CREDITS.md); the gallery does not certify the entire set for unrestricted commercial use.
-
-## From input to result
-
-Upload one or more reference images, or simply describe an object. Search **free commercially usable resources first**. If suitable matches are unavailable, offer paid commercial candidates with original asset links and license conditions. Purchases require authorization.
-
-| Input / research reference | → Clay |
-|---|---|
-| Text: a rounded purple eggplant, green leaf cap, transparent background | <img src="assets/eggplant-clay.png" width="150" alt="Text-generated clay eggplant"> |
-| <img src="https://raw.githubusercontent.com/guokaigdg/naive-icons/main/svg/eggplant.svg" width="90" alt="Naive Icons eggplant source"><br>[Shape research: Naive Icons eggplant](https://github.com/guokaigdg/naive-icons/blob/main/svg/eggplant.svg) · [MIT license](https://github.com/guokaigdg/naive-icons/blob/main/LICENSE) | <img src="assets/eggplant-clay.png" width="100" alt="Clay material example"> |
-
-The second row compares a research source with material examples. The original SVG was not supplied as a generation image input; these are not exact source-image conversions. For uploaded-image transformations, record the actual reference-to-output relationship.
-
-## Get started
-
-Download the repository and extract it into your Codex skills directory:
-
-```text
-~/.codex/skills/icon-material-studio/
-├── SKILL.md
-├── agents/
-├── references/
-└── assets/
-```
-
-Or ask Codex to install it:
-
-```text
-Install this skill: https://github.com/iTuer/icon-material-studio
-```
-
-Just name the object. A single word is enough:
-
-> Eggplant
-
-> Book
-
-> A red flag
-
-The skill handles the prompt details: soft-clay material, transparent PNG, natural colors, lighting, composition and small-size readability. You can optionally add “purple,” “rounder,” or “commercial use.” No long prompt is required.
+Then say **“eggplant”**, **“book”**, or upload a reference image. Soft clay and transparent PNG are the defaults. Add a color or commercial-use requirement only when needed.
 
 ## Workflow
 
-**Brief → Source and license checks → Shape selection → Soft clay generation → Small-size review → File delivery**
+Find suitable shapes → check source rights → generate soft clay → check small sizes → deliver PNG / ZIP.
 
-| Step | What you receive |
-|---|---|
-| Define the brief | Subject, material, palette, size, and commercial requirements; existing choices are retained |
-| Find candidates | A small, varied shortlist with original resource links and license status |
-| Create the material | Consistent depth, viewing angle, lighting, roundness, and colors |
-| Review the result | Recognition at the intended size, contrast on light and dark surfaces, and real alpha transparency |
-| Deliver files | Direct PNG downloads; sets can be packaged as ZIP with source and license records |
+Free commercially usable resources are searched first. Paid commercial options are offered when needed, with source and license links. Purchases require authorization.
 
-This skill focuses on **soft clay**. Explicit requests for flat, vector, or other material styles use ordinary image or vector tools. Generation requires an image tool supplied by the host environment; this repository contains no model or API key.
+## Sources and delivery
 
-## Where it searches
+Search channels include installed icon libraries, project assets, original creators and GitHub, Iconify, OpenMoji, Wikimedia Commons, and commercial catalogs. Each delivery lists the channels actually used, original asset links, license conditions, commercial status and file downloads.
 
-| Channel | Purpose |
-|---|---|
-| Installed icon skills and local packages | Reuse available families such as Naive Icons or Lucide |
-| Project assets and design systems | Match the existing product |
-| Creator websites and GitHub repositories | Locate original files, versions, and licenses |
-| [Iconify](https://icon-sets.iconify.design/) | Discover icon families and trace them to their creators |
-| [OpenMoji](https://openmoji.org/) and [Wikimedia Commons](https://commons.wikimedia.org/) | Explore subjects and shapes, checking each asset's license |
-| Noun Project, Flaticon, Envato, and UI8 | Search specialized styles within an authorized budget |
-| General image search | Discover visual directions and find their original sources |
+## Example references
 
-These are available channels. Each delivery identifies the channels **actually searched**, rather than implying that every listed site was used.
+| Example | Shape reference | Material reference |
+|---|---|---|
+| Book | [Solar notebook-2](https://icon-sets.iconify.design/solar/notebook-2-bold-duotone/) | - |
+| Completed / vegetables | - | Generated book |
+| Eggplant | - | - |
 
-## Sources and commercial use
+These are AI-generated PNG illustrations. Some example input chains have unresolved commercial rights. [Full provenance and license notes](assets/CREDITS.md).
 
-Every handoff includes:
-
-- **Search channels:** the sources actually consulted.
-- **Original resource links:** the specific icon and license page, or an explicit text-only origin.
-- **Download links:** actual image files or a ZIP package.
-- **Commercial status:** permitted use and conditions, purchase requirements, noncommercial restrictions, or unresolved rights.
-- **Derivation:** whether a source informed the shape, provided a material reference, or was not used as an image input.
-
-Free download does not automatically mean commercial use is permitted. Source licenses and AI generation service terms are recorded separately. Recoloring or changing material does not automatically remove source obligations. AI-generated output is not automatically open source or exclusive.
-
-The skill text currently has no separate open-source license. See [CREDITS](assets/CREDITS.md) for example-image provenance; third-party resources retain their own licenses.
-
-## Validation
-
-The clay image workflow has been run, with alpha transparency and 32px/48px light and dark previews checked. Skill structure validation passed. See the [test report](TEST-REPORT.md).
+[SKILL.md](SKILL.md) · [Test report](TEST-REPORT.md)
