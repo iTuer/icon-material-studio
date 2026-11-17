@@ -4,7 +4,7 @@
 
 ### 找到合适的形状，做成有体积的可爱图标。
 
-**软陶 · 透明玻璃 · 透明 PNG · 来源可追溯**
+**软陶 · 透明 PNG · 来源可追溯**
 
 **简体中文** · [English](README.en.md)
 
@@ -14,13 +14,9 @@
 
 ---
 
-## 两种材质，同一份可爱
+## 圆润软陶，有体积的可爱
 
-<table>
-<tr><th width="50%">软陶 Soft Clay</th><th width="50%">透明玻璃 Transparent Glass</th></tr>
-<tr><td align="center"><img src="assets/eggplant-clay.png" width="280" alt="紫色茄子软陶图标，圆润体积与柔和漫反射"></td><td align="center"><img src="assets/eggplant-glass.png" width="280" alt="紫色透明玻璃茄子图标，绿色叶冠与折射高光"></td></tr>
-<tr><td align="center">圆润体积 · 柔和高光 · 温暖触感</td><td align="center">透光边缘 · 折射层次 · 清透光泽</td></tr>
-</table>
+<p align="center"><img src="assets/eggplant-clay.png" width="300" alt="Soft clay eggplant icon"></p>
 
 以上是实际生成的透明 PNG 示例。3D 指图标的视觉效果，交付文件是位图插画。示例由文字提示生成，没有将第三方图片上传为生成输入；详细来源见 [示例说明](assets/CREDITS.md)。
 
@@ -28,10 +24,10 @@
 
 可以直接上传一张或多张参考图片，也可以只描述物品。优先检索**免费可商用资源**；没有合适结果时，再提供标明价格与授权条件的付费商用候选，附原素材链接，购买前征得同意。
 
-| 输入／研究参考 | → 软陶效果 | → 透明玻璃效果 |
-|---|---|---|
-| 文字描述：紫色茄子、绿色叶冠、圆润可爱、透明背景 | <img src="assets/eggplant-clay.png" width="150" alt="文字描述生成的软陶茄子"> | <img src="assets/eggplant-glass.png" width="150" alt="文字描述生成的玻璃茄子"> |
-| <img src="https://raw.githubusercontent.com/guokaigdg/naive-icons/main/svg/eggplant.svg" width="90" alt="Naive Icons eggplant source"><br>[原图造型研究：Naive Icons 茄子](https://github.com/guokaigdg/naive-icons/blob/main/svg/eggplant.svg) · [MIT 许可](https://github.com/guokaigdg/naive-icons/blob/main/LICENSE) | <img src="assets/eggplant-clay.png" width="100" alt="软陶材质示例"> | <img src="assets/eggplant-glass.png" width="100" alt="玻璃材质示例"> |
+| 输入／研究参考 | → 软陶效果 |
+|---|---|
+| 文字描述：紫色茄子、绿色叶冠、圆润可爱、透明背景 | <img src="assets/eggplant-clay.png" width="150" alt="文字描述生成的软陶茄子"> |
+| <img src="https://raw.githubusercontent.com/guokaigdg/naive-icons/main/svg/eggplant.svg" width="90" alt="Naive Icons eggplant source"><br>[原图造型研究：Naive Icons 茄子](https://github.com/guokaigdg/naive-icons/blob/main/svg/eggplant.svg) · [MIT 许可](https://github.com/guokaigdg/naive-icons/blob/main/LICENSE) | <img src="assets/eggplant-clay.png" width="100" alt="软陶材质示例"> |
 
 第二行展示研究来源与材质结果的对照：原 SVG 未作为生成图片输入，不能视为精确的“原图转换”。上传图片后可按其造型做材质改写，并记录真实输入关系。
 
@@ -55,17 +51,17 @@
 
 安装后，直接描述你想要的图标：
 
-> 用 $icon-material-studio 做一个茄子图标，透明玻璃材质，紫绿色，透明背景，用于 48px 的界面。
+> 用 $icon-material-studio 做一个茄子图标，软陶材质，紫绿色，透明背景，用于 48px 的界面。
 
 > 找三种适合“完成”的图标造型，要求可商用，再把选中的做成红色软陶。
 
 > 给我一套书籍、记录、纸张图标，统一软陶材质，奶油紫配色，交付 PNG 包。
 
-已有选择时，可以直接说“02”“改成玻璃”或“两个都试试”，继续当前步骤。
+已有选择时，可以直接说“02”“改成紫色”或“两个都试试”，继续当前步骤。
 
 ## 工作流程
 
-**需求 → 搜索与授权筛选 → 选择造型 → 软陶／玻璃生成 → 小尺寸检查 → 下载交付**
+**需求 → 搜索与授权筛选 → 选择造型 → 软陶生成 → 小尺寸检查 → 下载交付**
 
 | 步骤 | 你会拿到什么 |
 |---|---|
@@ -75,7 +71,7 @@
 | 检查效果 | 目标尺寸的辨认度、浅深背景对比和真实透明通道 |
 | 图片交付 | PNG 下载链接；多图可打包 ZIP，附来源和授权记录 |
 
-该 skill 专注 **软陶与透明玻璃**。明确需要扁平、矢量或其他材质时，使用普通出图能力。生成依赖宿主提供的图片生成工具，本仓库不包含模型或 API 密钥。
+该 skill 专注 **软陶**。明确需要扁平、矢量或其他材质时，使用普通出图能力。生成依赖宿主提供的图片生成工具，本仓库不包含模型或 API 密钥。
 
 ## 从哪里找图标
 
@@ -107,4 +103,4 @@
 
 ## 验证记录
 
-软陶、透明玻璃图片流程已实际运行，检查了透明通道及 32px／48px 的浅深背景效果。Skill 结构通过校验。详见 [测试记录](TEST-REPORT.md)。
+软陶图片流程已实际运行，检查了透明通道及 32px／48px 的浅深背景效果。Skill 结构通过校验。详见 [测试记录](TEST-REPORT.md)。

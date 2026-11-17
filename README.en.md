@@ -4,7 +4,7 @@
 
 ### Find the right shape. Give it a little depth.
 
-**Soft clay · Transparent glass · Transparent PNG · Traceable sources**
+**Soft clay · Transparent PNG · Traceable sources**
 
 [简体中文](README.md) · **English**
 
@@ -14,24 +14,20 @@
 
 ---
 
-## Two materials, one friendly icon family
+## Soft clay, a friendly icon family
 
-<table>
-<tr><th width="50%">Soft Clay</th><th width="50%">Transparent Glass</th></tr>
-<tr><td align="center"><img src="assets/eggplant-clay.png" width="280" alt="Rounded purple eggplant icon with soft clay shading"></td><td align="center"><img src="assets/eggplant-glass.png" width="280" alt="Translucent purple glass eggplant with a green glass leaf cap"></td></tr>
-<tr><td align="center">Rounded volume · Diffuse highlights · Soft texture</td><td align="center">Translucent edges · Refraction · Clear highlights</td></tr>
-</table>
+<p align="center"><img src="assets/eggplant-clay.png" width="300" alt="Soft clay eggplant icon"></p>
 
-These are actual generated transparent PNG examples. “3D” describes the visual treatment; delivered images are raster illustrations. Both examples were generated from text without uploading third-party images as generation inputs. See [example provenance](assets/CREDITS.md).
+These are actual generated transparent PNG examples. “3D” describes the visual treatment; delivered images are raster illustrations. The example was generated from text without uploading third-party images as generation inputs. See [example provenance](assets/CREDITS.md).
 
 ## From input to result
 
 Upload one or more reference images, or simply describe an object. Search **free commercially usable resources first**. If suitable matches are unavailable, offer paid commercial candidates with original asset links and license conditions. Purchases require authorization.
 
-| Input / research reference | → Clay | → Glass |
-|---|---|---|
-| Text: a rounded purple eggplant, green leaf cap, transparent background | <img src="assets/eggplant-clay.png" width="150" alt="Text-generated clay eggplant"> | <img src="assets/eggplant-glass.png" width="150" alt="Text-generated glass eggplant"> |
-| <img src="https://raw.githubusercontent.com/guokaigdg/naive-icons/main/svg/eggplant.svg" width="90" alt="Naive Icons eggplant source"><br>[Shape research: Naive Icons eggplant](https://github.com/guokaigdg/naive-icons/blob/main/svg/eggplant.svg) · [MIT license](https://github.com/guokaigdg/naive-icons/blob/main/LICENSE) | <img src="assets/eggplant-clay.png" width="100" alt="Clay material example"> | <img src="assets/eggplant-glass.png" width="100" alt="Glass material example"> |
+| Input / research reference | → Clay |
+|---|---|
+| Text: a rounded purple eggplant, green leaf cap, transparent background | <img src="assets/eggplant-clay.png" width="150" alt="Text-generated clay eggplant"> |
+| <img src="https://raw.githubusercontent.com/guokaigdg/naive-icons/main/svg/eggplant.svg" width="90" alt="Naive Icons eggplant source"><br>[Shape research: Naive Icons eggplant](https://github.com/guokaigdg/naive-icons/blob/main/svg/eggplant.svg) · [MIT license](https://github.com/guokaigdg/naive-icons/blob/main/LICENSE) | <img src="assets/eggplant-clay.png" width="100" alt="Clay material example"> |
 
 The second row compares a research source with material examples. The original SVG was not supplied as a generation image input; these are not exact source-image conversions. For uploaded-image transformations, record the actual reference-to-output relationship.
 
@@ -55,17 +51,17 @@ Install this skill: https://github.com/iTuer/icon-material-studio
 
 Then describe your icon:
 
-> Use $icon-material-studio to make a purple and green eggplant icon in transparent glass, with a transparent background, for a 48px interface.
+> Use $icon-material-studio to make a purple and green eggplant icon in soft clay, with a transparent background, for a 48px interface.
 
 > Find three commercially usable shapes for a “completed” icon, then turn the selected one into red soft clay.
 
 > Make a consistent set of book, notes, and paper icons in cream and purple soft clay. Deliver a PNG package.
 
-Short replies such as “02,” “make it glass,” or “try both” continue the current selection.
+Short replies such as “02,” “make it purple,” or “try both” continue the current selection.
 
 ## Workflow
 
-**Brief → Source and license checks → Shape selection → Clay or glass generation → Small-size review → File delivery**
+**Brief → Source and license checks → Shape selection → Soft clay generation → Small-size review → File delivery**
 
 | Step | What you receive |
 |---|---|
@@ -75,7 +71,7 @@ Short replies such as “02,” “make it glass,” or “try both” continue 
 | Review the result | Recognition at the intended size, contrast on light and dark surfaces, and real alpha transparency |
 | Deliver files | Direct PNG downloads; sets can be packaged as ZIP with source and license records |
 
-This skill focuses on **soft clay and transparent glass**. Explicit requests for flat, vector, or other material styles use ordinary image or vector tools. Generation requires an image tool supplied by the host environment; this repository contains no model or API key.
+This skill focuses on **soft clay**. Explicit requests for flat, vector, or other material styles use ordinary image or vector tools. Generation requires an image tool supplied by the host environment; this repository contains no model or API key.
 
 ## Where it searches
 
@@ -107,4 +103,4 @@ The skill text currently has no separate open-source license. See [CREDITS](asse
 
 ## Validation
 
-The clay and transparent-glass image workflows have been run, with alpha transparency and 32px/48px light and dark previews checked. Skill structure validation passed. See the [test report](TEST-REPORT.md).
+The clay image workflow has been run, with alpha transparency and 32px/48px light and dark previews checked. Skill structure validation passed. See the [test report](TEST-REPORT.md).
