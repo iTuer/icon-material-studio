@@ -17,3 +17,7 @@ The gallery demonstrates appearance. For a commercial project, select independen
 ## Reference correction
 
 The Fitness screenshot was historically supplied as an input when generating the book. Its influence was limited to general UI color, roundness and soft shadows; it is not a soft-clay material reference. The clay appearance primarily came from the generation prompt. It has therefore been removed from the README material-reference column while retained here for accurate input provenance and rights disclosure.
+
+## Croissant case
+
+`croissant-reference.png`: user-supplied photo, included at the user’s request for this case; third-party reuse rights are not established. `croissant-clay.png`: existing AI-generated soft-clay croissant, created from text after visually identifying the subject; the photo was not supplied as a generation image input. No third-party icon was used. AI output usage follows applicable [OpenAI terms](https://openai.com/policies/terms-of-use/); exclusivity is not guaranteed. The photo is not offered as a commercially cleared stock asset.

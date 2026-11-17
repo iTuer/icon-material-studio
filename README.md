@@ -6,6 +6,12 @@
 
 ![Soft clay icon gallery](assets/gallery/page.png)
 
+## 案例：牛角包
+
+![Croissant reference and generated result](assets/croissant-case/page.png)
+
+[下载透明 PNG](assets/croissant-clay.png)。看图确认主题后，以文字独立生成，原照片未输入生图工具。AI 图片的商业使用遵循适用服务条款，详见[来源说明](assets/CREDITS.md)。
+
 ## 怎么用
 
 安装：`https://github.com/iTuer/icon-material-studio`

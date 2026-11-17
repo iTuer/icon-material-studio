@@ -6,6 +6,12 @@ A word or an image. A soft-clay icon.
 
 ![Soft clay icon gallery](assets/gallery/page.png)
 
+## Case: croissant
+
+![Croissant reference and generated result](assets/croissant-case/page.png)
+
+[Download transparent PNG](assets/croissant-clay.png). The supplied photo was used to identify the subject; the icon was generated from text without passing the photo to the image tool. AI-generated image; commercial use is subject to the applicable service terms. [Provenance](assets/CREDITS.md).
+
 ## Use it
 
 Install: `https://github.com/iTuer/icon-material-studio`
