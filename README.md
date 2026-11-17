@@ -2,19 +2,7 @@
 
 # Icon Material Studio
 
-### 找到合适的形状，做成有体积的可爱图标。
-
-**软陶 · 透明 PNG · 来源可追溯**
-
-**简体中文** · [English](README.en.md)
-
-[开始使用](#开始使用) · [工作流程](#工作流程) · [素材与商用](#素材与商用) · [查看 Skill](SKILL.md)
-
-</div>
-
----
-
-## 圆润软陶，有体积的可爱
+### 圆润软陶，有体积的可爱
 
 <p align="center"><img src="assets/eggplant-clay.png" width="300" alt="Soft clay eggplant icon"></p>
 
@@ -22,10 +10,18 @@
 
 ## 不只有茄子：一组软陶示例
 
-<table>
-<tr><td align="center" width="33%"><img src="assets/book-clay.png" width="180" alt="书籍"><br><b>书籍</b></td><td align="center" width="33%"><img src="assets/done-clay.png" width="180" alt="完成徽章"><br><b>完成徽章</b></td><td align="center" width="33%"><img src="assets/bok-choy-clay.png" width="180" alt="小白菜"><br><b>小白菜</b></td></tr>
-<tr><td align="center" width="33%"><img src="assets/carrot-clay.png" width="180" alt="胡萝卜"><br><b>胡萝卜</b></td><td align="center" width="33%"><img src="assets/pumpkin-clay.png" width="180" alt="南瓜"><br><b>南瓜</b></td><td align="center" width="33%"><img src="assets/tomato-clay.png" width="180" alt="番茄"><br><b>番茄</b></td></tr>
-</table>
+| 原始参考 | 输入用途 | 生成结果 |
+|---|---|---|
+| [Solar original](https://icon-sets.iconify.design/solar/notebook-2-bold-duotone/) | Solar notebook-2 shape; recolored before generation. Fitness screenshot as material reference. | <img src="assets/book-clay.png" width="140" alt="book"> |
+| <img src="assets/book-clay.png" width="85" alt="material reference"> | Text: red circle with check. Book image for material only. | <img src="assets/done-clay.png" width="140" alt="done"> |
+| <img src="assets/book-clay.png" width="85" alt="material reference"> | Text: bok choy. Book image for material only. | <img src="assets/bok-choy-clay.png" width="140" alt="bok-choy"> |
+| <img src="assets/book-clay.png" width="85" alt="material reference"> | Text: carrot. Book image for material only. | <img src="assets/carrot-clay.png" width="140" alt="carrot"> |
+| <img src="assets/book-clay.png" width="85" alt="material reference"> | Text: pumpkin. Book image for material only. | <img src="assets/pumpkin-clay.png" width="140" alt="pumpkin"> |
+| <img src="assets/book-clay.png" width="85" alt="material reference"> | Text: tomato. Book image for material only. | <img src="assets/tomato-clay.png" width="140" alt="tomato"> |
+| Text only | Text: eggplant. No image input. | <img src="assets/eggplant-clay.png" width="140" alt="eggplant"> |
+
+[Book style reference / 书籍材质参考：Fitness screenshot](https://github.com/mitesh77/Best-Flutter-UI-Templates/blob/master/best_flutter_ui_templates/assets/fitness_app/fitness_app.png) · [Source and license details / 来源与授权](assets/CREDITS.md)
+
 
 以上为 AI 生成材质示例。书籍有额外的源素材授权条件，其余示例沿用了它的材质参考。详见[来源与限制](assets/CREDITS.md)，整组展示不代表已获无条件商用授权。
 

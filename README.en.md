@@ -2,19 +2,7 @@
 
 # Icon Material Studio
 
-### Find the right shape. Give it a little depth.
-
-**Soft clay · Transparent PNG · Traceable sources**
-
-[简体中文](README.md) · **English**
-
-[Get started](#get-started) · [Workflow](#workflow) · [Sources and commercial use](#sources-and-commercial-use) · [Skill instructions](SKILL.md)
-
-</div>
-
----
-
-## Soft clay, a friendly icon family
+### Soft clay, a friendly icon family
 
 <p align="center"><img src="assets/eggplant-clay.png" width="300" alt="Soft clay eggplant icon"></p>
 
@@ -22,10 +10,18 @@ These are actual generated transparent PNG examples. “3D” describes the visu
 
 ## More soft-clay examples
 
-<table>
-<tr><td align="center" width="33%"><img src="assets/book-clay.png" width="180" alt="Book"><br><b>Book</b></td><td align="center" width="33%"><img src="assets/done-clay.png" width="180" alt="Completed"><br><b>Completed</b></td><td align="center" width="33%"><img src="assets/bok-choy-clay.png" width="180" alt="Bok choy"><br><b>Bok choy</b></td></tr>
-<tr><td align="center" width="33%"><img src="assets/carrot-clay.png" width="180" alt="Carrot"><br><b>Carrot</b></td><td align="center" width="33%"><img src="assets/pumpkin-clay.png" width="180" alt="Pumpkin"><br><b>Pumpkin</b></td><td align="center" width="33%"><img src="assets/tomato-clay.png" width="180" alt="Tomato"><br><b>Tomato</b></td></tr>
-</table>
+| Reference | Input role | Result |
+|---|---|---|
+| [Solar original](https://icon-sets.iconify.design/solar/notebook-2-bold-duotone/) | Solar notebook-2 shape; recolored before generation. Fitness screenshot as material reference. | <img src="assets/book-clay.png" width="140" alt="book"> |
+| <img src="assets/book-clay.png" width="85" alt="material reference"> | Text: red circle with check. Book image for material only. | <img src="assets/done-clay.png" width="140" alt="done"> |
+| <img src="assets/book-clay.png" width="85" alt="material reference"> | Text: bok choy. Book image for material only. | <img src="assets/bok-choy-clay.png" width="140" alt="bok-choy"> |
+| <img src="assets/book-clay.png" width="85" alt="material reference"> | Text: carrot. Book image for material only. | <img src="assets/carrot-clay.png" width="140" alt="carrot"> |
+| <img src="assets/book-clay.png" width="85" alt="material reference"> | Text: pumpkin. Book image for material only. | <img src="assets/pumpkin-clay.png" width="140" alt="pumpkin"> |
+| <img src="assets/book-clay.png" width="85" alt="material reference"> | Text: tomato. Book image for material only. | <img src="assets/tomato-clay.png" width="140" alt="tomato"> |
+| Text only | Text: eggplant. No image input. | <img src="assets/eggplant-clay.png" width="140" alt="eggplant"> |
+
+[Book style reference / 书籍材质参考：Fitness screenshot](https://github.com/mitesh77/Best-Flutter-UI-Templates/blob/master/best_flutter_ui_templates/assets/fitness_app/fitness_app.png) · [Source and license details / 来源与授权](assets/CREDITS.md)
+
 
 These are AI-generated material examples. The book has additional source-license conditions, and the other examples share its material reference. See [provenance and limitations](assets/CREDITS.md); the gallery does not certify the entire set for unrestricted commercial use.
 
