@@ -10,15 +10,15 @@
 
 ## 不只有茄子：一组软陶示例
 
-| 造型来源 | 材质参考（不是物品原图） | 生成结果 |
+| 造型来源 | 材质参考 | 生成结果 |
 |---|---|---|
 | <img src="https://api.iconify.design/solar/notebook-2-bold-duotone.svg?color=%238D7BC3" width="85" alt="Solar source icon"><br>[Solar notebook-2](https://icon-sets.iconify.design/solar/notebook-2-bold-duotone/) | [Fitness screenshot](https://github.com/mitesh77/Best-Flutter-UI-Templates/blob/master/best_flutter_ui_templates/assets/fitness_app/fitness_app.png) | <img src="assets/book-clay.png" width="140" alt="book"> |
-| 文字描述：红圈对勾。没有使用对应物品原图。 | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"><br>书籍图：仅参考软陶材质 | <img src="assets/done-clay.png" width="140" alt="done"> |
-| 文字描述：小白菜。没有使用对应物品原图。 | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"><br>书籍图：仅参考软陶材质 | <img src="assets/bok-choy-clay.png" width="140" alt="bok-choy"> |
-| 文字描述：胡萝卜。没有使用对应物品原图。 | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"><br>书籍图：仅参考软陶材质 | <img src="assets/carrot-clay.png" width="140" alt="carrot"> |
-| 文字描述：南瓜。没有使用对应物品原图。 | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"><br>书籍图：仅参考软陶材质 | <img src="assets/pumpkin-clay.png" width="140" alt="pumpkin"> |
-| 文字描述：番茄。没有使用对应物品原图。 | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"><br>书籍图：仅参考软陶材质 | <img src="assets/tomato-clay.png" width="140" alt="tomato"> |
-| 文字描述：茄子。没有使用对应物品原图。 | 文字指定软陶材质，无图片输入 | <img src="assets/eggplant-clay.png" width="140" alt="eggplant"> |
+| - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/done-clay.png" width="140" alt="done"> |
+| - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/bok-choy-clay.png" width="140" alt="bok-choy"> |
+| - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/carrot-clay.png" width="140" alt="carrot"> |
+| - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/pumpkin-clay.png" width="140" alt="pumpkin"> |
+| - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/tomato-clay.png" width="140" alt="tomato"> |
+| - | - | <img src="assets/eggplant-clay.png" width="140" alt="eggplant"> |
 
 [Book style reference / 书籍材质参考：Fitness screenshot](https://github.com/mitesh77/Best-Flutter-UI-Templates/blob/master/best_flutter_ui_templates/assets/fitness_app/fitness_app.png) · [Source and license details / 来源与授权](assets/CREDITS.md)
 
@@ -31,7 +31,7 @@
 
 | 输入／研究参考 | → 软陶效果 |
 |---|---|
-| 文字描述：紫色茄子、绿色叶冠、圆润可爱、透明背景 | <img src="assets/eggplant-clay.png" width="150" alt="文字描述生成的软陶茄子"> |
+| - | <img src="assets/eggplant-clay.png" width="150" alt="文字描述生成的软陶茄子"> |
 | <img src="https://raw.githubusercontent.com/guokaigdg/naive-icons/main/svg/eggplant.svg" width="90" alt="Naive Icons eggplant source"><br>[原图造型研究：Naive Icons 茄子](https://github.com/guokaigdg/naive-icons/blob/main/svg/eggplant.svg) · [MIT 许可](https://github.com/guokaigdg/naive-icons/blob/main/LICENSE) | <img src="assets/eggplant-clay.png" width="100" alt="软陶材质示例"> |
 
 第二行展示研究来源与材质结果的对照：原 SVG 未作为生成图片输入，不能视为精确的“原图转换”。上传图片后可按其造型做材质改写，并记录真实输入关系。

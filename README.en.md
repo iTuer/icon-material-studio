@@ -13,12 +13,12 @@ These are actual generated transparent PNG examples. “3D” describes the visu
 | Shape source | Material reference | Result |
 |---|---|---|
 | <img src="https://api.iconify.design/solar/notebook-2-bold-duotone.svg?color=%238D7BC3" width="85" alt="Solar source icon"><br>[Solar notebook-2](https://icon-sets.iconify.design/solar/notebook-2-bold-duotone/) | [Fitness screenshot](https://github.com/mitesh77/Best-Flutter-UI-Templates/blob/master/best_flutter_ui_templates/assets/fitness_app/fitness_app.png) | <img src="assets/book-clay.png" width="140" alt="book"> |
-| Text description: done. No subject image supplied. | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"><br>Book image: material only | <img src="assets/done-clay.png" width="140" alt="done"> |
-| Text description: bok-choy. No subject image supplied. | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"><br>Book image: material only | <img src="assets/bok-choy-clay.png" width="140" alt="bok-choy"> |
-| Text description: carrot. No subject image supplied. | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"><br>Book image: material only | <img src="assets/carrot-clay.png" width="140" alt="carrot"> |
-| Text description: pumpkin. No subject image supplied. | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"><br>Book image: material only | <img src="assets/pumpkin-clay.png" width="140" alt="pumpkin"> |
-| Text description: tomato. No subject image supplied. | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"><br>Book image: material only | <img src="assets/tomato-clay.png" width="140" alt="tomato"> |
-| Text description: eggplant. No subject image supplied. | Text-only material specification | <img src="assets/eggplant-clay.png" width="140" alt="eggplant"> |
+| - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/done-clay.png" width="140" alt="done"> |
+| - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/bok-choy-clay.png" width="140" alt="bok-choy"> |
+| - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/carrot-clay.png" width="140" alt="carrot"> |
+| - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/pumpkin-clay.png" width="140" alt="pumpkin"> |
+| - | <img src="assets/book-clay.png" width="85" alt="Soft clay material reference"> | <img src="assets/tomato-clay.png" width="140" alt="tomato"> |
+| - | - | <img src="assets/eggplant-clay.png" width="140" alt="eggplant"> |
 
 [Book style reference / 书籍材质参考：Fitness screenshot](https://github.com/mitesh77/Best-Flutter-UI-Templates/blob/master/best_flutter_ui_templates/assets/fitness_app/fitness_app.png) · [Source and license details / 来源与授权](assets/CREDITS.md)
 
