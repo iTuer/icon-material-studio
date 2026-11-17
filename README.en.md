@@ -24,6 +24,17 @@
 
 These are actual generated transparent PNG examples. “3D” describes the visual treatment; delivered images are raster illustrations. Both examples were generated from text without uploading third-party images as generation inputs. See [example provenance](assets/CREDITS.md).
 
+## From input to result
+
+Upload one or more reference images, or simply describe an object. Search **free commercially usable resources first**. If suitable matches are unavailable, offer paid commercial candidates with original asset links and license conditions. Purchases require authorization.
+
+| Input / research reference | → Clay | → Glass |
+|---|---|---|
+| Text: a rounded purple eggplant, green leaf cap, transparent background | <img src="assets/eggplant-clay.png" width="150" alt="Text-generated clay eggplant"> | <img src="assets/eggplant-glass.png" width="150" alt="Text-generated glass eggplant"> |
+| <img src="https://raw.githubusercontent.com/guokaigdg/naive-icons/main/svg/eggplant.svg" width="90" alt="Naive Icons eggplant source"><br>[Shape research: Naive Icons eggplant](https://github.com/guokaigdg/naive-icons/blob/main/svg/eggplant.svg) · [MIT license](https://github.com/guokaigdg/naive-icons/blob/main/LICENSE) | <img src="assets/eggplant-clay.png" width="100" alt="Clay material example"> | <img src="assets/eggplant-glass.png" width="100" alt="Glass material example"> |
+
+The second row compares a research source with material examples. The original SVG was not supplied as a generation image input; these are not exact source-image conversions. For uploaded-image transformations, record the actual reference-to-output relationship.
+
 ## Get started
 
 Download the repository and extract it into your Codex skills directory:

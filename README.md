@@ -24,6 +24,17 @@
 
 以上是实际生成的透明 PNG 示例。3D 指图标的视觉效果，交付文件是位图插画。示例由文字提示生成，没有将第三方图片上传为生成输入；详细来源见 [示例说明](assets/CREDITS.md)。
 
+## 从输入到结果
+
+可以直接上传一张或多张参考图片，也可以只描述物品。优先检索**免费可商用资源**；没有合适结果时，再提供标明价格与授权条件的付费商用候选，附原素材链接，购买前征得同意。
+
+| 输入／研究参考 | → 软陶效果 | → 透明玻璃效果 |
+|---|---|---|
+| 文字描述：紫色茄子、绿色叶冠、圆润可爱、透明背景 | <img src="assets/eggplant-clay.png" width="150" alt="文字描述生成的软陶茄子"> | <img src="assets/eggplant-glass.png" width="150" alt="文字描述生成的玻璃茄子"> |
+| <img src="https://raw.githubusercontent.com/guokaigdg/naive-icons/main/svg/eggplant.svg" width="90" alt="Naive Icons eggplant source"><br>[原图造型研究：Naive Icons 茄子](https://github.com/guokaigdg/naive-icons/blob/main/svg/eggplant.svg) · [MIT 许可](https://github.com/guokaigdg/naive-icons/blob/main/LICENSE) | <img src="assets/eggplant-clay.png" width="100" alt="软陶材质示例"> | <img src="assets/eggplant-glass.png" width="100" alt="玻璃材质示例"> |
+
+第二行展示研究来源与材质结果的对照：原 SVG 未作为生成图片输入，不能视为精确的“原图转换”。上传图片后可按其造型做材质改写，并记录真实输入关系。
+
 ## 开始使用
 
 把本仓库下载并解压到 Codex 的 skills 目录，文件结构如下：
