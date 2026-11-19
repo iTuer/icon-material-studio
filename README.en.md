@@ -14,15 +14,19 @@ A word or an image. A soft-clay icon.
 
 ## Use it
 
-Install: `https://github.com/iTuer/icon-material-studio`
+Send this request to Codex.
 
-Then say **“eggplant”**, **“book”**, or upload a reference image. Soft clay and transparent PNG are the defaults. Add a color or commercial-use requirement only when needed.
+> Install the skill from https://github.com/iTuer/icon-material-studio. `SKILL.md` is at the repository root. Install it in `~/.codex/skills/icon-material-studio/`.
+
+You can also download the repository ZIP and extract the directory containing `SKILL.md` into that location or your configured skills directory. Start a new session and ask “Use `$icon-material-studio` to make a croissant icon,” or upload a reference image. Image generation requires an image tool in the current session. The inspection script requires Python 3.
+
+The default output is a soft clay PNG with a transparent background. Add any color or commercial use requirements you need.
 
 Simple objects are generated directly without a mandatory external search. When used, the built-in calibration image is disclosed as an AI material reference; it may help consistency but cannot guarantee it.
 
 ## Workflow
 
-Find suitable shapes → check source rights → generate soft clay → check small sizes → deliver PNG / ZIP.
+Generate simple subjects directly. For reference searches, check the source and its terms. For an exact transformation, check the supplied image first. Review generated images at small sizes before delivering PNG or ZIP files.
 
 For asset-search tasks, free commercially usable resources are searched first. Paid commercial options are offered when needed, with source and license links. Purchases require authorization.
 

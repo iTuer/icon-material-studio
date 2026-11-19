@@ -1,6 +1,6 @@
-# Search Channels & Commercial Reference Checks (Text Path)
+# Search Channels & Commercial Reference Checks
 
-Read only for source-search or reference-transformation tasks. Simple generic requests use direct generation without required external search. Prefer free commercially usable sources; offer paid alternatives if needed, with actual source/license links. Purchase only with authorization.
+Use for finding or replacing a reference. When the user supplies a specific source, check its rights for the planned use first. Search for a replacement when requested or when the user accepts that option. Prefer free commercially usable sources and provide source and license links for paid alternatives. Purchase only with authorization.
 
 ## 1. Priority Search Channels
 
@@ -20,4 +20,4 @@ Read only for source-search or reference-transformation tasks. Simple generic re
    - Exclude `"free for personal use only"`, unverified reposts, or conflicting license claims from commercial candidates.
    - Distinguish `"free download"`, `"open source"`, `"free commercial use with attribution"`, and `"public domain (CC0)"`.
 3. Stop when the request has enough suitable choices; do not require backup links for a direct-generation request.
-4. If no suitable external icon passes commercial checks, report the search channels checked and proceed with an independent text-only generation under the locked soft-clay specification, explicitly noting `source_url: none (independent text generation after search)`.
+4. If no suitable external icon passes commercial checks, report the channels checked and any missing evidence. Offer another search or an independently generated icon if either would help. For a search-only request or an exact-shape brief, preserve the user's scope until they choose a fallback.
