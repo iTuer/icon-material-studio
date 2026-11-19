@@ -43,4 +43,14 @@ class InspectorTests(unittest.TestCase):
   p=self.root/'a<b.png';p.write_bytes(png(bytes([0,1,2,3,255])))
   r=m.parse_png_rgba(str(p));out=m.write_preview_html(str(p),r,str(self.root/'preview'));s=Path(out).read_text()
   self.assertIn('Native 1:1',s);self.assertIn('width:1px;height:1px',s);self.assertIn('a&lt;b.png',s);self.assertNotIn('opacity: 0.85',s)
+ def test_preview_filename_preserves_source_stem(self):
+  for filename, escaped in [('a&b.png', 'a&amp;b.png'), ('a<b.png', 'a&lt;b.png')]:
+   with self.subTest(filename=filename):
+    source = self.root / filename
+    source.write_bytes(png(bytes([0, 1, 2, 3, 255])))
+    report = m.parse_png_rgba(str(source))
+    preview_dir = self.root / 'preview'
+    output = Path(m.write_preview_html(str(source), report, str(preview_dir)))
+    self.assertEqual(output, preview_dir / f'{source.stem}-preview.html')
+    self.assertIn(f'<title>Icon Inspection · {escaped}</title>', output.read_text())
 if __name__=='__main__':unittest.main()

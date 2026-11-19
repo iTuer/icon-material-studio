@@ -198,8 +198,9 @@ def write_preview_html(png_path: str, report: dict, out_dir: str) -> str:
     with open(png_path, "rb") as f:
         b64 = base64.b64encode(f.read()).decode("ascii")
     data_uri = f"data:image/png;base64,{b64}"
-    name = html_lib.escape(report["file"])
-    html_path = os.path.join(out_dir, f"{os.path.splitext(name)[0]}-preview.html")
+    filename = report["file"]
+    html_path = os.path.join(out_dir, f"{os.path.splitext(filename)[0]}-preview.html")
+    name = html_lib.escape(filename)
 
     html = f"""<!doctype html>
 <html lang="zh-CN">

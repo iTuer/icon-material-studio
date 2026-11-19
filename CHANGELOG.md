@@ -2,6 +2,8 @@
 
 ## 2026-11-19
 
+Preserve special characters in preview filenames while escaping them in the HTML. Add regression coverage for filenames containing `&` and `<`.
+
 State the commercial use decision per asset and intended use, with conditions and evidence. Document the separate statuses of generated gallery icons and their source images.
 
 Add first-use instructions and distinguish a search-only request from a request to transform an exact shape. Preserve the requested scope when a search fails or commercial-use rights remain unconfirmed. Record one direct generation run, one source search, and an authorization decision check.
