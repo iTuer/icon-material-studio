@@ -1,5 +1,11 @@
 # 示例图片来源
 
+| 素材 | 用于付费 App 的普通界面图标 |
+| --- | --- |
+| 茄子和牛角包生成 PNG | **可商用**。纯文字生成，适用 [OpenAI 输出条款](https://openai.com/policies/terms-of-use/#content)。 |
+| 书籍、完成徽章、小白菜、胡萝卜、南瓜、番茄生成 PNG | **暂无法确认**。书籍制作时输入过授权范围未确认的模板截图，其余图标使用了生成的书籍图作为材质参考。 |
+| 牛角包参考照片 | **暂无法确认**。原照片的商业再利用授权缺少依据。 |
+
 `eggplant-clay.png`：内置图片生成工具依据文字提示生成，未上传第三方图标或图片作为生成输入。主题是通用茄子形态；采用软陶视觉材质。图片为透明 PNG，不包含可编辑 3D 模型。
 
 此前造型研究检索了 [Naive Icons 茄子](https://github.com/guokaigdg/naive-icons/blob/main/svg/eggplant.svg)，其 [MIT 许可](https://github.com/guokaigdg/naive-icons/blob/main/LICENSE)允许附条件商用；该 SVG 未作为本图的生成图片输入。

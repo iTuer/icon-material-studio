@@ -10,7 +10,7 @@ A word or an image. A soft-clay icon.
 
 ![Croissant reference and generated result](assets/croissant-case/page.png)
 
-[Download transparent PNG](assets/croissant-clay.png). The supplied photo was used to identify the subject; the icon was generated from text without passing the photo to the image tool. AI-generated image; commercial use is subject to the applicable service terms. [Provenance](assets/CREDITS.md).
+**The croissant PNG can be used as a regular interface icon in a paid app.** It was generated from text after the photo helped identify the subject. Commercial reuse of the photo itself remains unverified. [Download transparent PNG](assets/croissant-clay.png) · [Source and terms](assets/CREDITS.md)
 
 ## Use it
 
@@ -32,7 +32,7 @@ For asset-search tasks, free commercially usable resources are searched first. P
 
 ## Sources and delivery
 
-Search channels include installed icon libraries, project assets, original creators and GitHub, Iconify, OpenMoji, Wikimedia Commons, and commercial catalogs. Each delivery lists the channels actually used, original asset links, license conditions, commercial status and file downloads.
+Search channels include installed icon libraries, project assets, original creators and GitHub, Iconify, OpenMoji, Wikimedia Commons, and commercial catalogs. Each delivery gives a commercial use decision for each asset, along with any conditions, source and license links, and file downloads.
 
 ## Example references
 

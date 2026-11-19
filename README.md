@@ -10,7 +10,7 @@
 
 ![Croissant reference and generated result](assets/croissant-case/page.png)
 
-[下载透明 PNG](assets/croissant-clay.png)。看图确认主题后，以文字独立生成，原照片未输入生图工具。AI 图片的商业使用遵循适用服务条款，详见[来源说明](assets/CREDITS.md)。
+**牛角包 PNG 可作为付费 App 的普通界面图标。** 它由文字生成，原照片只用于识别主题。原照片本身的商业再利用授权仍待确认。 [下载透明 PNG](assets/croissant-clay.png) · [来源与依据](assets/CREDITS.md)
 
 ## 怎么用
 
@@ -32,7 +32,7 @@
 
 ## 来源与交付
 
-检索渠道包括已安装图标库、项目素材、原作者网站与 GitHub、Iconify、OpenMoji、Wikimedia Commons 和商用素材平台。每次交付附实际搜索渠道、原素材链接、许可条件、商用状态及文件下载链接。
+检索渠道包括已安装图标库、项目素材、原作者网站与 GitHub、Iconify、OpenMoji、Wikimedia Commons 和商用素材平台。交付时逐项说明能用于哪些商业用途、需要满足什么条件，以及哪些素材的授权还待确认，并附来源、许可和下载链接。
 
 ## 示例参考
 
