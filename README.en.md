@@ -18,11 +18,13 @@ Install: `https://github.com/iTuer/icon-material-studio`
 
 Then say **“eggplant”**, **“book”**, or upload a reference image. Soft clay and transparent PNG are the defaults. Add a color or commercial-use requirement only when needed.
 
+Simple objects are generated directly without a mandatory external search. When used, the built-in calibration image is disclosed as an AI material reference; it may help consistency but cannot guarantee it.
+
 ## Workflow
 
 Find suitable shapes → check source rights → generate soft clay → check small sizes → deliver PNG / ZIP.
 
-Free commercially usable resources are searched first. Paid commercial options are offered when needed, with source and license links. Purchases require authorization.
+For asset-search tasks, free commercially usable resources are searched first. Paid commercial options are offered when needed, with source and license links. Purchases require authorization.
 
 ## Sources and delivery
 
@@ -39,3 +41,9 @@ Search channels include installed icon libraries, project assets, original creat
 These are AI-generated PNG illustrations. Some example input chains have unresolved commercial rights. [Full provenance and license notes](assets/CREDITS.md).
 
 [SKILL.md](SKILL.md) · [Test report](TEST-REPORT.md)
+
+## Read-only inspection
+
+`python3 scripts/inspect_icon.py icon.png --out-dir preview`
+
+Reports exact and near-opaque alpha separately, rejects damaged supported PNG files, and creates 1:1 plus small-size light/dark previews. Unsupported encodings are reported, not passed. Human visual review is still required.

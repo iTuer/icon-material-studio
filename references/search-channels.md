@@ -1,15 +1,23 @@
-# Search channels and source checks
+# Search Channels & Commercial Reference Checks (Text Path)
 
-Use channels relevant to the brief; the list is not a requirement to query every site.
+Read only for source-search or reference-transformation tasks. Simple generic requests use direct generation without required external search. Prefer free commercially usable sources; offer paid alternatives if needed, with actual source/license links. Purchase only with authorization.
 
-| Channel | Good for | Source check |
-|---|---|---|
-| Installed skills and local icon packages (for example Naive Icons, Lucide, Solar if present) | Fast exact semantic match and existing style | Read bundled license and upstream icon page; inspect whether package and artwork share the same terms |
-| Project repository and design system | Consistency with the user's product | Identify who made each asset and whether third-party material was imported; local presence is not a license |
-| Original creator sites and GitHub repositories | Authoritative downloads, version history, licenses | Prefer exact file URL plus license URL; check image folders separately from code |
-| Icon aggregators such as Iconify | Discover families, naming, and candidates | Follow through to original creator and license metadata; aggregator wrapper license does not replace artwork terms |
-| Public-domain/open-asset catalogs such as OpenMoji or Wikimedia Commons | Broad subjects and alternate styles | Inspect the exact file's license, attribution, trademark and source fields; do not assume the whole site is uniform |
-| Commercial marketplaces such as Noun Project, Flaticon, Envato or UI8 | Specialized styles when budget is allowed | Check item-specific use, subscription/attribution, redistribution limits and price; obtain user authorization before spending |
-| General image search | Find visual directions and original authors | Treat thumbnails as leads only; trace to original page before using as an input or claiming rights |
+## 1. Priority Search Channels
 
-Search with semantic synonyms in Chinese and English, then shape terms (rounded, filled, outlined, sticker, playful), material terms, and the target platform. Stop when a small qualified set covers distinct options. Favor a clean text-only original generation when no source meets the user's commercial requirements; record that no third-party image was used as generation input.
+| Priority | Channel | Best For | Verification Rule |
+|---|---|---|---|
+| 1 | **Installed icon skills & local packages** (e.g., Naive Icons, Lucide, Solar, Tabler) | Fast semantic match and clean UI silhouettes | Verify the package's bundled license AND the upstream artwork license |
+| 2 | **User's project repository / design system** | Product silhouette consistency | Confirm whether existing project icons are first-party or imported third-party assets |
+| 3 | **Official creator sites & GitHub repositories** | Authoritative SVG/PNG source and explicit license files | Record exact file URL + `LICENSE` URL; check whether artwork/images have separate terms from code |
+| 4 | **Icon aggregators** (e.g., Iconify) | Broad keyword/synonym discovery across families | Use for discovery only; trace back to the original icon set and verify its license terms |
+| 5 | **Open catalogs** (e.g., OpenMoji, Wikimedia Commons) | Concrete objects, food, nature, everyday items | Inspect the specific file's license, attribution requirements, and trademark restrictions |
+| 6 | **Paid commercial marketplaces** (e.g., Noun Project, Flaticon, UI8, Envato) | Specialized subjects when free commercial options fail | Label as **需购买或取得授权** with price/subscription terms and links; never purchase without user approval |
+
+## 2. Search Strategy
+
+1. Query using bilingual semantic terms (Chinese + English) and simple shape descriptors (`filled`, `rounded`, `duotone`, `bold`).
+2. Filter by commercial usability upfront:
+   - Exclude `"free for personal use only"`, unverified reposts, or conflicting license claims from commercial candidates.
+   - Distinguish `"free download"`, `"open source"`, `"free commercial use with attribution"`, and `"public domain (CC0)"`.
+3. Stop when the request has enough suitable choices; do not require backup links for a direct-generation request.
+4. If no suitable external icon passes commercial checks, report the search channels checked and proceed with an independent text-only generation under the locked soft-clay specification, explicitly noting `source_url: none (independent text generation after search)`.

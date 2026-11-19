@@ -1,23 +1,11 @@
-# License and provenance record
+# Source and output provenance
 
-Use this reference when source assets or commercial rights matter. Check the primary source's current license and the exact file's page. If the distribution index and author page disagree, record the conflict and treat commercial clearance as unresolved. A license for the icon's outline may still apply after recolor or image generation based on that outline. A screenshot used as a generation input also needs provenance; style-only use is not a blanket rights guarantee.
+Record source rights separately from generation output terms. A source may be verified commercially usable with conditions, paid/permission required, explicitly noncommercial, or unconfirmed. AI-generated output is a different property; it is not an open-source license or a promise of exclusivity.
 
-For each final asset, record:
+For uploaded images, record user ownership/permission statements and any verifiable license evidence. No evidence means unconfirmed, not noncommercial. A known icon match does not establish rights for an entire screenshot. For commercial-ready packages, exclude unresolved and noncommercial source chains; a warning does not convert them to cleared assets.
 
-| Field | Meaning |
-|---|---|
-| `file` | Delivered filename |
-| `subject` | User-facing icon meaning |
-| `source_url` | Direct original icon/image URL, or `none: text-only original brief` |
-| `creator` | Source author/library, if known |
-| `license_url` | Primary license page, or `unknown` |
-| `source_role` | Modified shape / style reference / edit target / none |
-| `commercial_status` | Cleared with conditions / unclear / noncommercial / purchase or permission required |
-| `cost` | Free, paid, generation service cost, or unknown; do not infer a price |
-| `attribution` | Required text/link and modification note, or none/unknown |
-| `generation` | Tool, material, prompt summary, and parent output if any |
-| `verification` | Date checked, file properties, size preview |
+Distinguish: (1) photo viewed to identify a generic object, (2) image supplied for shape/editing, (3) image supplied for material. Restrictions/uncertainty must be evaluated for the actual use; do not automatically label all outputs noncommercial because an identification-only photo has unknown rights. Do not claim omitting the photo from generation guarantees zero risk.
 
-Use plain labels in the response: **可免费商用（附条件）**, **需购买或取得授权**, **仅非商用**, **授权未确认**, **AI 生成（非开源素材）**. Do not collapse all “free” items into commercial-safe. If the user asks for commercially usable work, exclude unresolved candidates from the final commercial-ready package and tell them what was excluded.
+For each output, record filename/dimensions, subject, channels actually searched or none, source URL/license/creator or no sourced asset, every image input and role, calibration image used or prompt-only, source-rights evidence/conditions separately from output-service terms, and actual quality checks. Use compact human-readable records; no requirement to show a large table to the user.
 
-An attribution text should name the library/creator, link the original and license, and note modifications where required. Include it in a separate `CREDITS.md` or manifest for packaged assets; do not imply attribution on the icon itself is sufficient or always needed.
+Calibration input provenance: [resources/PROVENANCE.md](../resources/PROVENANCE.md). If it was used, say “文字描述＋内置 AI 材质参考图”; if no image input was used, say “文字生成，无图片输入”. Preserve identification-only photo records separately.
