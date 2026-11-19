@@ -1,9 +1,9 @@
 ---
-name: icon-material-studio
+name: soft-clay-icons
 description: Create consistent 3D-looking soft-clay icons from object names or reference images, with transparent PNG delivery and source/commercial-use records. Use for soft-clay icons or 3D icons with material unspecified; route explicit non-clay or vector requests to ordinary tools.
 ---
 
-# Icon Material Studio
+# Soft Clay Icons
 
 A subject name or a reference image is sufficient. Produce a rounded soft-clay icon, not a flat or alternative-material variant. Default to natural subject colors and transparent PNG; expand the generation prompt internally. Do not ask for lighting or camera settings.
 
@@ -28,7 +28,7 @@ Historical images in `assets/` are documentation only; never use them as default
 
 ## 3. Inspect first
 
-Run `python3 /path/to/icon-material-studio/scripts/inspect_icon.py <output.png> --out-dir <preview_dir>` using the installed skill directory. It supports non-interlaced 8-bit RGBA PNG pixel inspection and explicitly reports unsupported encodings. Check actual alpha, dimensions, native 1:1 and 32px/48px light/dark previews. The script generates previews; an agent must render and inspect them before claiming visual checks passed.
+Run `python3 /path/to/soft-clay-icons/scripts/inspect_icon.py <output.png> --out-dir <preview_dir>` using the installed skill directory. It supports non-interlaced 8-bit RGBA PNG pixel inspection and explicitly reports unsupported encodings. Check actual alpha, dimensions, native 1:1 and 32px/48px light/dark previews. The script generates previews; an agent must render and inspect them before claiming visual checks passed.
 
 Fully opaque, near-opaque and other semi-transparent pixels are separate statistics, not automatic quality verdicts. Bright semi-transparent pixel counts are global hints, not detected edge halos. Occupancy uses a documented alpha threshold and can include shadows. Inspect actual body bleed-through, visible dark-background halos, clipping and small-size recognition. Fix or regenerate only confirmed defects; never batch-force alpha or resample merely because the master size is unusual. Preserve original pixels unless a specific edit is requested/needed, and export requested sizes separately.
 

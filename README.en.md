@@ -1,4 +1,4 @@
-# Icon Material Studio
+# Soft Clay Icons
 
 [简体中文](README.md) · **English**
 
@@ -16,9 +16,9 @@ A word or an image. A soft-clay icon.
 
 Send this request to Codex.
 
-> Install the skill from https://github.com/iTuer/icon-material-studio. `SKILL.md` is at the repository root. Install it in `~/.codex/skills/icon-material-studio/`.
+> Install the skill from https://github.com/iTuer/soft-clay-icons. `SKILL.md` is at the repository root. Install it in `~/.codex/skills/soft-clay-icons/`.
 
-You can also download the repository ZIP and extract the directory containing `SKILL.md` into that location or your configured skills directory. Start a new session and ask “Use `$icon-material-studio` to make a croissant icon,” or upload a reference image. Image generation requires an image tool in the current session. The inspection script requires Python 3.
+You can also download the repository ZIP and extract the directory containing `SKILL.md` into that location or your configured skills directory. Start a new session and ask “Use `$soft-clay-icons` to make a croissant icon,” or upload a reference image. Image generation requires an image tool in the current session. The inspection script requires Python 3.
 
 The default output is a soft clay PNG with a transparent background. Add any color or commercial use requirements you need.
 

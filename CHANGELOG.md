@@ -2,6 +2,8 @@
 
 ## 2026-11-19
 
+Rename the repository, skill, and install directory from `icon-material-studio` to `soft-clay-icons`. Use `$soft-clay-icons` to invoke the renamed skill.
+
 Preserve special characters in preview filenames while escaping them in the HTML. Add regression coverage for filenames containing `&` and `<`.
 
 State the commercial use decision per asset and intended use, with conditions and evidence. Document the separate statuses of generated gallery icons and their source images.

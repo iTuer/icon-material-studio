@@ -1,4 +1,4 @@
-# Icon Material Studio
+# 3D 软陶图标生成器
 
 **简体中文** · [English](README.en.md)
 
@@ -16,9 +16,9 @@
 
 把下面这句话发给 Codex。
 
-> 从 https://github.com/iTuer/icon-material-studio 安装 Skill。`SKILL.md` 在仓库根目录，请安装到 `~/.codex/skills/icon-material-studio/`。
+> 从 https://github.com/iTuer/soft-clay-icons 安装 Skill。`SKILL.md` 在仓库根目录，请安装到 `~/.codex/skills/soft-clay-icons/`。
 
-也可以下载仓库 ZIP，将含有 `SKILL.md` 的目录解压为上述目录。如果 Codex 设置了其他技能目录，请使用对应位置。安装后开启新会话，发送「用 `$icon-material-studio` 做一个牛角包图标」，或上传参考图片。出图需要当前会话提供图片生成工具，运行质检脚本需要 Python 3。
+也可以下载仓库 ZIP，将含有 `SKILL.md` 的目录解压为上述目录。如果 Codex 设置了其他技能目录，请使用对应位置。安装后开启新会话，发送「用 `$soft-clay-icons` 做一个牛角包图标」，或上传参考图片。出图需要当前会话提供图片生成工具，运行质检脚本需要 Python 3。
 
 默认输出透明背景的软陶 PNG。配色和商用条件按需补充。
 
